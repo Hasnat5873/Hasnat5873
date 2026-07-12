@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Shakibur Hasnat
 
-<!--
-**Hasnat5873/Hasnat5873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science & Engineering Graduate
 
-Here are some ideas to get you started:
+### ☁️ Aspiring Cloud & DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building reliable, scalable, and secure cloud infrastructure. I enjoy working with Linux systems, computer networking, automation, and cloud technologies. Currently, I am focusing on AWS, DevOps tools, and hands-on infrastructure projects to strengthen my practical skills.
+
+---
+
+## 🚀 Current Focus
+
+* ☁️ Amazon Web Services (AWS)
+* 🐧 Linux System Administration
+* 🌐 Computer Networking (Cisco)
+* 🐳 Docker
+* ☸️ Kubernetes
+* 🏗️ Terraform
+* ⚙️ CI/CD
+* 📜 Bash Scripting
+* 🐍 Python
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Cloud
+
+AWS (EC2, VPC, IAM, S3, EBS)
+
+### Networking
+
+Cisco Routing & Switching, OSPF, EIGRP, VLAN, ACL, NAT, GRE Tunnel etc
+
+### Operating Systems
+
+Linux 
+
+
+### DevOps
+
+Git • GitHub • Docker • Kubernetes • Terraform • CI/CD
+
+### Programming
+
+Python • Bash
+
+---
+
+## 📚 Currently Learning
+
+* AWS Services
+* Docker & Kubernetes
+* Infrastructure as Code (Terraform)
+* CI/CD Pipelines
+* Monitoring & Logging
+* Cloud Security
+
+---
+
+## 📂 Featured Projects
+
+* AWS EC2 & EBS Configuration
+* Linux LVM Administration
+* Cisco Networking Labs
+* Routing & Switching Projects
+* Docker Projects
+* Kubernetes Labs
+* Terraform Infrastructure
+* Bash Automation Scripts
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Cloud & DevOps Engineer by building real-world projects, continuously learning modern technologies, and solving infrastructure challenges.
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.**
