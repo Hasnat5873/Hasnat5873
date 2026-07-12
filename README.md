@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakibur Hasnat
 
-### ☁️ Aspiring Cloud & DevOps Engineer
+### ☁️ Aspiring Cloud, DevOps & Networking Engineer
 
 I am passionate about Cloud Computing, Linux, Networking, and DevOps. I enjoy building hands-on projects with AWS, Linux, and Cisco technologies while continuously improving my infrastructure and automation skills.
 
