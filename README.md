@@ -1,80 +1,88 @@
 # 👋 Hi, I'm Shakibur Hasnat
 
-### 🎓 Computer Science & Engineering Graduate
-
 ### ☁️ Aspiring Cloud & DevOps Engineer
 
-I am passionate about building reliable, scalable, and secure cloud infrastructure. I enjoy working with Linux systems, computer networking, automation, and cloud technologies. Currently, I am focusing on AWS, DevOps tools, and hands-on infrastructure projects to strengthen my practical skills.
+I am passionate about Cloud Computing, Linux, Networking, and DevOps. I enjoy building hands-on projects with AWS, Linux, and Cisco technologies while continuously improving my infrastructure and automation skills.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-* ☁️ Amazon Web Services (AWS)
-* 🐧 Linux System Administration
-* 🌐 Computer Networking (Cisco)
-* 🐳 Docker
-* ☸️ Kubernetes
-* 🏗️ Terraform
-* ⚙️ CI/CD
-* 📜 Bash Scripting
-* 🐍 Python
+* 🎓 Computer Science & Engineering Graduate
+* ☁️ Learning AWS Cloud
+* 🌐 Passionate about Computer Networking
+* 🐧 Linux Enthusiast
+* 🐳 Currently learning Docker & Kubernetes
+* 🏗️ Exploring Terraform & Infrastructure as Code
+* 📖 Always learning new technologies
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Cloud
+**Cloud**
 
-AWS (EC2, VPC, IAM, S3, EBS)
+* AWS (EC2, IAM, VPC, S3, EBS)
 
-### Networking
+**Networking**
 
-Cisco Routing & Switching, OSPF, EIGRP, VLAN, ACL, NAT, GRE Tunnel etc
+* Cisco
+* Routing & Switching
+* OSPF
+* EIGRP
+* VLAN
+* NAT
+* ACL
+* GRE Tunnel etc
+  
+**Operating System**
 
-### Operating Systems
+* Linux
+  
+**DevOps**
 
-Linux 
+* Git
+* GitHub
+* Docker
+* Kubernetes (Learning)
+* Terraform (Learning)
+* CI/CD (Learning)
 
+**Programming**
 
-### DevOps
-
-Git • GitHub • Docker • Kubernetes • Terraform • CI/CD
-
-### Programming
-
-Python • Bash
+* Python
+* Bash
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Working On
 
-* AWS Services
+* AWS Hands-on Projects
+* Networking Labs
+* Linux Administration
 * Docker & Kubernetes
-* Infrastructure as Code (Terraform)
-* CI/CD Pipelines
-* Monitoring & Logging
-* Cloud Security
-
----
-
-## 📂 Featured Projects
-
-* AWS EC2 & EBS Configuration
-* Linux LVM Administration
-* Cisco Networking Labs
-* Routing & Switching Projects
-* Docker Projects
-* Kubernetes Labs
-* Terraform Infrastructure
-* Bash Automation Scripts
+* Terraform
+* Bash Automation
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled Cloud & DevOps Engineer by building real-world projects, continuously learning modern technologies, and solving infrastructure challenges.
+To become a skilled Cloud & DevOps Engineer by building practical projects, mastering cloud infrastructure, and contributing to modern IT solutions.
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.**
+## 📂 Featured Repositories
+
+* ☁️ AWS Projects
+* 🌐 Cisco Networking Labs
+* 🐧 Linux Projects
+* 🐳 Docker Labs
+* ☸️ Kubernetes Labs
+* 🏗️ Terraform Projects
+* 📜 Bash Scripts
+
+---
+
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
